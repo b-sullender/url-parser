@@ -12,6 +12,28 @@ Have you ever found yourself needing a reliable URL parser? I certainly have! Th
 - Provides a clean and straightforward API for easy integration into your projects.
 - Lightweight and efficient, making it suitable for various applications.
 
+LICENSE TERMS
+=============
+```
+This software is provided 'as-is', without any express or implied
+warranty.  In no event will the authors be held liable for any damages
+arising from the use of this software.
+
+Permission is granted to anyone to use this software for any purpose,
+including commercial applications, and to alter it and redistribute it
+freely, subject to the following restrictions:
+
+(1) If any part of the source code or algorithm is used, it is requested that
+    appropriate attribution is given to the authors by providing a link to
+    the original repository or a reference to the authors name.
+(2) Permission for use of this software is granted only if the user accepts
+    full responsibility for any undesirable consequences; the authors accept
+    NO LIABILITY for damages of any kind.
+
+By using this software, you acknowledge that you have read and understood
+these terms and agree to abide by them.
+```
+
 ## Getting Started
 
 To use the URL parser, follow these simple steps:
@@ -66,28 +88,6 @@ Various constants are defined to set the maximum lengths for different URL compo
 - `MAX_URL_PATH_LEN`: Maximum path length (e.g., "/path/to/resource").
 - `MAX_URL_QUERY_LEN`: Maximum query length (e.g., "param1=value1&param2=value2").
 - `MAX_URL_FRAGMENT_LEN`: Maximum fragment length (e.g., "section").
-
-LICENSE TERMS
-=============
-```
-This software is provided 'as-is', without any express or implied
-warranty.  In no event will the authors be held liable for any damages
-arising from the use of this software.
-
-Permission is granted to anyone to use this software for any purpose,
-including commercial applications, and to alter it and redistribute it
-freely, subject to the following restrictions:
-
-(1) If any part of the source code or algorithm is used, it is requested that
-    appropriate attribution is given to the authors by providing a link to
-    the original repository or a reference to the authors name.
-(2) Permission for use of this software is granted only if the user accepts
-    full responsibility for any undesirable consequences; the authors accept
-    NO LIABILITY for damages of any kind.
-
-By using this software, you acknowledge that you have read and understood
-these terms and agree to abide by them.
-```
 
 ## Contributing
 

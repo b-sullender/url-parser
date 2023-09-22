@@ -1,3 +1,12 @@
+//
+// Copyright (c) 2023 Brian Sullender
+// All rights reserved.
+//
+// This source code is licensed under the terms provided in the README file.
+//
+// https://github.com/b-sullender/url-parser
+//
+
 #ifndef URL_PARSER_H
 #define URL_PARSER_H
 
